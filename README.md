@@ -1,8 +1,8 @@
 # nvidiajetsontx1multi
 Multiple Frameworks
-
-Image Capture
-Open CV
-Apache MXNet
-Nvidia TensorRT - Face Detect and ImageNet Image Classification 
-(see:  https://github.com/dusty-nv/jetson-inference)
+<br/>
+Image Capture<br/>
+Open CV<br/>
+Apache MXNet<br/>
+Nvidia TensorRT - Face Detect and ImageNet Image Classification <br/>
+(see:  https://github.com/dusty-nv/jetson-inference)<br/><br/>
